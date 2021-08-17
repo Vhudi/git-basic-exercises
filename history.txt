@@ -1,0 +1,149 @@
+    1  ls
+    2  pwd
+    3  mkdir git_practice
+    4  ls
+    5  cd git_practice
+    6  ls
+    7  pwd
+    8  cd /
+    9  pwd
+   10  ls
+   11  cd ~
+   12  ls
+   13  pwd
+   14  ls -l
+   15  cd git_practice
+   16  ls -i
+   17  ls -l
+   18  ls
+   19  //
+   20  cd ..
+   21  ls
+   22  cd Documents
+   23  ls
+   24  cd umuzi
+   25  ls
+   26  cd Work
+   27  ls
+   28  mkdir git
+   29  ls
+   30  ls -l
+   31  ls -R
+   32  cd ~/umuzi
+   33  pwd
+   34  ld
+   35  ls
+   36  cd Documents/umuzi/Work/git
+   37  ls
+   38  git init
+   39  ls
+   40  git add *.c
+   41  git add LICENSE
+   42  git status
+   43  mkdir Vhudi
+   44  ls
+   45  git status
+   46  git add Vhudi
+   47  ls
+   48  git status
+   49  cd Vhudi
+   50  ls
+   51  git status
+   52  ls
+   53  git add README.md
+   54  ls
+   55  git add README.md
+   56  git status
+   57  cd..
+   58  cd ..
+   59  git add Vhudi/
+   60  git status
+   61  git status README.md 
+   62  git add README.md
+   63  cd Vhudi
+   64  git add README.md
+   65  git status
+   66  git status -s
+   67  git status --
+   68  git status --short
+   69  git status -s
+   70  cat .gitignore
+   71  README.md .gitignore
+   72  git status
+   73  git status -s
+   74  git diff
+   75  git add
+   76  git add README.md
+   77  ls
+   78  git diff
+   79  git status -s
+   80  git commit
+   81  git config --global user.name "Vhudi"
+   82  git config --global user.email "vhudimotabatsindi@gmail.com"
+   83  ls
+   84  git commit
+   85  ls
+   86  cd git-basic-exercises
+   87  ls
+   88  cd ..
+   89  cd ..
+   90  ls
+   91  cd git
+   92  ls
+   93  cd ..
+   94  ls
+   95  cd basics
+   96  ls
+   97  cd git-basic-exercises
+   98  ls
+   99  ls -a
+  100  git status
+  101  git log
+  102  git add
+  103  git add README.md
+  104  ls
+  105  git log
+  106  git status
+  107  git commit -m "initial commit"
+  108  git status
+  109  git log
+  110  nano README.md
+  111  cat README.md
+  112  git status
+  113  git add
+  114  git add README.md
+  115  ls
+  116  git status
+  117  git log
+  118  git commit -m "second commit"
+  119  git log
+  120  nano README.md
+  121  ls
+  122  git add README.md
+  123  cat README.md
+  124  cat 
+  125  git commit -m "third commit"
+  126  git log
+  127  git branch
+  128  git branch milkshake-flavours
+  129  git branch
+  130  git checkout milkshake-flavours
+  131  ls
+  132  nano README.md
+  133  cat README.md
+  134  git add README.md
+  135  git -s
+  136  git status -s
+  137  git commit -m "added initial flavours"
+  138  git log
+  139  git checkout main
+  140  git status -s
+  141  git status 
+  142* git commit -m "added initial flavours
+  143  git log
+  144  git branch history
+  145  git branch
+  146  git branch history
+  147  git checkout  history
+  148  git log
+  149  history > history.txt
